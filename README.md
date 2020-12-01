@@ -1,4 +1,4 @@
-# Welcome To My Epic Frienship Quiz
+# Welcome To My Epic Friendship Quiz
 
 This quiz is simply for testing how well do you know about me. You can play it from here : https://repl.it/@zohminga/howWellDoYouKnowMe?embed=1&output=1
 
